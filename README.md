@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-I'm Junior a Software Developer from Porto 🇵🇹  
+I'm Junior a Software Developer from Brazil living in Porto 🇵🇹  
 Want to 💬 about tech, photography or other nerdy 🤓 stuff  
 
 <a href="https://github.com/jroliveira" target="_blank"> ![Github Badge](https://img.shields.io/badge/-jroliveira-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jroliveira)</a>
 <a href="https://www.linkedin.com/in/junior-oliveira/" target="_blank"> ![Linkedin Badge](https://img.shields.io/badge/-junior&#8208;oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-oliveira)</a>
 <a href="mailto:junolive@gmail.com" target="_blank"> ![Gmail Badge](https://img.shields.io/badge/-junolive-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junolive@gmail.com)</a>
 
+[![JrOliveira Github Stats](https://github-readme-stats.vercel.app/api?username=jroliveira&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/jroliveira)
+
 ### My stack 🚀
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jroliveira&layout=compact)](https://github.com/jroliveira)
 
 Some technologies that I ❤️ and use
 
