@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Junior a Software Developer from Brazil living in Porto 🇵🇹  
+I'm Junior, a Software Developer from Brazil living in Porto 🇵🇹  
 Want to 💬 about tech, photography or other nerdy 🤓 stuff  
 
 <a href="https://github.com/jroliveira" target="_blank"> ![Github Badge](https://img.shields.io/badge/-jroliveira-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jroliveira)</a>
